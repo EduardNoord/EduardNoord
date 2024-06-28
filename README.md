@@ -95,9 +95,9 @@ Check out my repository Prueba for more examples of my work and projects.
 
 For more information or to connect, please visit my [LinkedIn profile](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/) or contact me via [email](mailto:eduardnoord@gmail.com).
 ## Projects
-
-### [Prueba](https://github.com/EduardNoord/Prueba)
-Check out my repository [Prueba](https://github.com/EduardNoord/Prueba) for more examples of my work and projects.
+## Repositories
+- [Econometric Study: Impact of the Tourist Accommodation on the Residential Rent](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
+- [Airbnb Price Estimator - Python Machine Learning](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning)
 
 ![Project Image](https://via.placeholder.com/600x400.png?text=Project+Image)
 <!--
