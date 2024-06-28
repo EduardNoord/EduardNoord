@@ -2,10 +2,9 @@
 
 **Economist and Data Scientist | Administrative / Consultant**
 
-Seville (Spain) | Moving to Barcelona  
-Email: [eduardnoord@gmail.com](mailto:eduardnoord@gmail.com)  
-LinkedIn: [Eduard Juan Noordermeer Montoya](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/)  
-Phone: +34 691 890 803  
+📍 Barcelona  
+📧 Email: [eduardnoord@gmail.com](mailto:eduardnoord@gmail.com)  
+👉 LinkedIn: [Eduard Juan Noordermeer Montoya](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/)    
 
 ---
 
