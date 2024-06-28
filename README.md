@@ -23,7 +23,7 @@ Check out my repositorys for examples of my work and projects.
 ---
 - [Econometric Study: Impact of the Tourist Accommodation on the Residential Rent](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
 - [Airbnb Price Estimator - Python Machine Learning](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning)
-
+---
 ## Academic Information
 ### Master in Data Science & Business Analytics (2023-2024)
 - **Institution**: IMF Smart Education & Catholic University of Avila
