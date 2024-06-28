@@ -38,10 +38,10 @@ Check out my repositorys for examples of my work and projects.
 ### Accenture (February 2023 - Present)
 - **Role**: Billing and Claims Administrative Specialist
 
-### Victoria Eugenia Hospital (Cruz Roja) (2022 - 4 Months)
+### Victoria Eugenia Hospital (Cruz Roja) (2022)
 - **Role**: Invoicing Clerk (University Internship)
 
-### ENDESA - Electricity Distribution (2017 - 4 Months)
+### ENDESA - Electricity Distribution (2017)
 - **Role**: Administrative Accountant (Vocational Training Internship)
 
 ---
