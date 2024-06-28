@@ -13,7 +13,13 @@ Phone: +34 691 890 803
 
 ## About Me
 
-Passionate about my profession, I specialize in data science and business analytics. With a strong academic background and hands-on experience, I am enthusiastic about developing my career as a data analyst. I bring full-time availability and am equipped for teleworking, with a driving license for flexibility.
+Nice to meet you! I’m Eduard, an economist and administrative specialist in billing. I'm working hard to become a data scientist and business analyst. If you want to chat, don’t hesitate to connect 😄
+
+I’ve always liked economics as a tool to understand the world 🌍 and Excel as my best ally to organize it 📊. When I discovered econometrics and dedicated my thesis to the market analysis of tourist rentals, I knew I wanted to work in the field of data analysis. I aim to bring significant value to the technical aspects of a data scientist with my knowledge in economics and finance.
+
+Since graduating, I have been working as an administrative specialist in billing and CRM for the energy sector, a position I have enjoyed and am glad to have taken.
+
+Recently, I completed a master in Data Science & Business Analytics and I am in the process of moving to Barcelona with my partner.
 
 ---
 
