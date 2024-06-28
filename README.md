@@ -10,7 +10,7 @@
 
 ## About Me
 
-Nice to meet you! I’m Eduard, an economist and administrative specialist in billing. I'm working hard to become a data scientist and business analyst. If you want to chat, don’t hesitate to connect 😄
+Nice to meet you! I’m Eduard, an economist and administrative specialist in billing. I'm working hard to become a data scientist and business analyst.
 
 I’ve always liked economics as a tool to understand the world 🌍 and Excel as my best ally to organize it 📊. When I discovered econometrics and dedicated my thesis to the market analysis of tourist rentals, I knew I wanted to work in the field of data analysis. I aim to bring significant value to the technical aspects of a data scientist with my knowledge in economics and finance.
 
