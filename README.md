@@ -82,7 +82,8 @@ Passionate about my profession, I specialize in data science and business analyt
   - Regular participation in boulder climbing, roller-skating, and cross-fit activities to promote a healthy lifestyle
   - Enthusiastic about presentations and public speaking
   - Certified in Scrum and Agile Methodologies
-
+Prueba
+Check out my repository Prueba for more examples of my work and projects.
 ---
 
 ## Additional Details
@@ -93,7 +94,12 @@ Passionate about my profession, I specialize in data science and business analyt
 - Currently looking for new opportunities to develop a career as a data analyst
 
 For more information or to connect, please visit my [LinkedIn profile](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/) or contact me via [email](mailto:eduardnoord@gmail.com).
+## Projects
 
+### [Prueba](https://github.com/EduardNoord/Prueba)
+Check out my repository [Prueba](https://github.com/EduardNoord/Prueba) for more examples of my work and projects.
+
+![Project Image](https://via.placeholder.com/600x400.png?text=Project+Image)
 <!--
 **EduardNoord/EduardNoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
