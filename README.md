@@ -19,6 +19,10 @@ Since graduating, I have been working as an administrative specialist in billing
 Recently, I completed a master in Data Science & Business Analytics and I am in the process of moving to Barcelona with my partner.
 
 ---
+Check out my repositorys for examples of my work and projects.
+---
+- [Econometric Study: Impact of the Tourist Accommodation on the Residential Rent](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
+- [Airbnb Price Estimator - Python Machine Learning](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning)
 
 ## Academic Information
 ### Master in Data Science & Business Analytics (2023-2024)
@@ -65,10 +69,5 @@ Recently, I completed a master in Data Science & Business Analytics and I am in 
   - Regular participation in boulder climbing, roller-skating, and cross-fit activities to promote a healthy lifestyle
   - Enthusiastic about presentations and public speaking
   - Certified in Scrum and Agile Methodologies
-
-Check out my repositorys for examples of my work and projects.
----
-- [Econometric Study: Impact of the Tourist Accommodation on the Residential Rent](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
-- [Airbnb Price Estimator - Python Machine Learning](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning)
 
 For more information or to connect, please visit my [LinkedIn profile](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/) or contact me via [email](mailto:eduardnoord@gmail.com).
