@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Eduard Juan Noordermeer Montoya
 
 **Economist and Data Scientist | Administrative / Consultant**
