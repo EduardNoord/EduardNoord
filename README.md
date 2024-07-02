@@ -21,7 +21,7 @@ Recently, I completed a master in Data Science & Business Analytics and I am in 
 ---
 Check out my repositorys for examples of my work and projects.
 ---
-- [Econometric Study: Impact of the Tourist Accommodation on the Residential Rent](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
+- [Econometric Study: Impact of Tourist Accommodations on Residential Rents](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
 - [Airbnb Price Estimator - Python Machine Learning](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning)
 ---
 ## Academic Information
