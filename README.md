@@ -24,27 +24,6 @@ Check out my repositorys for examples of my work and projects.
 - [Econometric Study: Impact of Tourist Accommodations on Residential Rents](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent)
 - [Airbnb Price Estimator - Python Machine Learning](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning)
 ---
-## Academic Information
-### Master in Data Science & Business Analytics (2023-2024)
-- **Institution**: IMF Smart Education & Catholic University of Avila
-### Bachelor's Degree in Economics (2018-2022)
-- **University**: University of Seville and the Catholic University of Leuven
-### Higher Degree in Administration and Finance (2015-2017)
-- **Institution**: Institut Beatriz de Suabia - Vocational Training
-
----
-
-## Work Experience
-### Accenture (February 2023 - Present)
-- **Role**: Billing and Claims Administrative Specialist
-
-### Victoria Eugenia Hospital (Cruz Roja) (2022)
-- **Role**: Invoicing Clerk (University Internship)
-
-### ENDESA - Electricity Distribution (2017)
-- **Role**: Administrative Accountant (Vocational Training Internship)
-
----
 
 ## Skills
 
@@ -70,4 +49,25 @@ Check out my repositorys for examples of my work and projects.
   - Enthusiastic about presentations and public speaking
   - Certified in Scrum and Agile Methodologies
 
+---
+## Academic Information
+### Master in Data Science & Business Analytics (2023-2024)
+- **Institution**: IMF Smart Education & Catholic University of Avila
+### Bachelor's Degree in Economics (2018-2022)
+- **University**: University of Seville and the Catholic University of Leuven
+### Higher Degree in Administration and Finance (2015-2017)
+- **Institution**: Institut Beatriz de Suabia - Vocational Training
+
+---
+## Work Experience
+### Accenture (February 2023 - Present)
+- **Role**: Billing and Claims Administrative Specialist
+
+### Victoria Eugenia Hospital (Cruz Roja) (2022)
+- **Role**: Invoicing Clerk (University Internship)
+
+### ENDESA - Electricity Distribution (2017)
+- **Role**: Administrative Accountant (Vocational Training Internship)
+
+---
 For more information or to connect, please visit my [LinkedIn profile](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/) or contact me via [email](mailto:eduardnoord@gmail.com).
