@@ -16,7 +16,7 @@ I’ve always liked economics as a tool to understand the world 🌍 and Excel a
 
 Since graduating, I have been working as an administrative specialist in billing and CRM for the energy sector, a position I have enjoyed and am glad to have taken.
 
-Recently, I completed a master in Data Science & Business Analytics and I am in the process of moving to Barcelona with my partner.
+Recently, I completed a master in Data Science & Business Analytics.
 
 ---
 Check out my repositorys for examples of my work and projects.
