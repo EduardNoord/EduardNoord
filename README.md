@@ -3,7 +3,7 @@
 **Economist and Data Scientist | Administrative / Consultant**
 
 📍 Barcelona  
-📧 Contact Email: [eduardnoord@gmail.com](mailto:eduardnoord@gmail.com)  
+📧 Contact Email: [eduardjnoord@gmail.com](mailto:eduardjnoord@gmail.com)  
 👉 LinkedIn: [Eduard Juan Noordermeer Montoya](https://www.linkedin.com/in/eduard-juan-noordermeer-montoya-513179107/)    
 
 ---
